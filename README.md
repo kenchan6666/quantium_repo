@@ -1,1 +1,2 @@
-# quantium_repo
+# quantium-starter-repo
+Quantium starter repo
